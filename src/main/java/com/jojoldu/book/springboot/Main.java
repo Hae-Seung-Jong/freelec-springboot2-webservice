@@ -1,4 +1,4 @@
-package com.jojoldu.book;
+package com.jojoldu.book.springboot;
 
 public class Main {
     public static void main(String[] args) {
